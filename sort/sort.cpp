@@ -396,6 +396,7 @@ int main(){
     // printVec(vec2);
     // quick_sort_norecur(vec3);
     // printVec(vec3);
+    
     selection_sort(vec2);
     printVec(vec2);
 
